@@ -1,0 +1,44 @@
+{
+    "Websites": [
+        "https://go.googlesource.com/",
+        "https://go.dev/doc/install"
+    ],
+    "compiled": true,
+    "interpreted": false,
+    "virtualMachine": false,
+    "typed": ["static","strong"],
+    "Go_program": "Programe + Runtime",
+    "BasicVariableTypes": [
+        "bool",
+        "string",
+        "int  int8  int16  int32  int64", // whole numbers
+        "uint uint8 uint16 uint32 uint64 uintptr",// positive whole numbers
+        "byte", // alias for uint8
+        "rune", // alias for int32  // represents a Unicode code point #h
+        "float32 float64", // decimal numbers
+        "complex64 complex128" // imaginary numbers (rare)
+
+    ],
+    "syntax": "var Name Type",
+    "SLD": true,
+    "SLD syntax": "mileage, company := 80276, 666",
+    "standardSizes": "int uint float64 complex128",
+    
+
+}
+
+bool
+
+string
+
+int  int8  int16  int32  int64
+uint uint8 uint16 uint32 uint64 uintptr
+
+byte 
+
+rune // alias for int32
+     // represents a Unicode code point
+
+float32 float64
+
+complex64 complex128
