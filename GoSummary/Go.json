@@ -1,8 +1,11 @@
 {
     "Websites": [
         "https://go.googlesource.com/",
-        "https://go.dev/doc/install"
+        "https://go.dev/doc/install",
+        "https://www.freecodecamp.org/news/learn-golang-handbook/",
+        "https://github.com/spring1843/go-dsa?tab=readme-ov-file"
     ],
+    
     "compiled": true,
     "interpreted": false,
     "virtualMachine": false,
